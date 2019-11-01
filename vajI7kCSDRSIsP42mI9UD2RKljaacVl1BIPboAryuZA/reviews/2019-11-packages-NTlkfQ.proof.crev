@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-11-01T13:57:59.808904300+01:00"
+from:
+  id-type: crev
+  id: vajI7kCSDRSIsP42mI9UD2RKljaacVl1BIPboAryuZA
+  url: "https://github.com/jendakol/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde-humanize-rs
+  version: 0.1.1
+  digest: RUaE4gadOxsKC6998KrpURMh3MdjI6Qh_xpWFJMz9PU
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |
+  Easily readable code, basically a few lines.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+zdxlunNnZPTcbIzbCNhhHFadnSIXZgyTAc4oj6XcYGNQIB7RRZ7Gz4BHmJEhoW9YJZhrG7aPpVuaAAor8YGTBw
+-----END CREV PACKAGE REVIEW-----
+
