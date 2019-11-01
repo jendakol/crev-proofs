@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-11-01T14:35:13.173861369+01:00"
+from:
+  id-type: crev
+  id: vajI7kCSDRSIsP42mI9UD2RKljaacVl1BIPboAryuZA
+  url: "https://github.com/jendakol/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: Was reviewing some of his repositories in past (mainly rdedup) and I strongly believe in his skills.
+-----BEGIN CREV TRUST SIGNATURE-----
+PDxEt-2NLrvy4i64Hqt484jpqDNtrExewSoan8KJt9hFo-XUZkFK19FeEeWI4MCQ1BneNoJvaWDfaM24LMJEBg
+-----END CREV TRUST-----
+
